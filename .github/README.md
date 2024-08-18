@@ -13,3 +13,11 @@
 - Phoenix framework
 - Next.js
 - Remix
+
+## Other Tools
+
+- Elasticsearch/Opensearch
+- RabbitMQ
+- Kafka
+- gRPC
+- PostgreSQL / MySQL (or MariaDB)
