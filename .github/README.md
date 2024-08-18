@@ -6,6 +6,7 @@
 - Elixir
 - Go
 - JavaScript (TypeScript)
+- Java / Kotlin
 
 ## Frameworks / Libs
 
@@ -13,3 +14,4 @@
 - Phoenix framework
 - Next.js
 - Remix
+- SpringBoot
