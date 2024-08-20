@@ -4,6 +4,7 @@
 
 - Ruby
 - Elixir
+- Java (+Kotlin)
 - Go
 - JavaScript (TypeScript)
 
@@ -11,6 +12,7 @@
 
 - Ruby on Rails
 - Phoenix framework
+- SpringBoot
 - Next.js
 - Remix
 
