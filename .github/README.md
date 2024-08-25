@@ -5,7 +5,6 @@
 - Ruby
 - Elixir
 - Java (+Kotlin)
-- Go
 - JavaScript (TypeScript)
 
 ## Frameworks / Libs
